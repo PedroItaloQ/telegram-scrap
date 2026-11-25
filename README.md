@@ -1,6 +1,6 @@
 # Baixar vídeos do Telegram
 
-O comando sincroniza o histórico de vídeos acessível à conta no **Canal de Vídeos para Afiliados . Ele também reconhece vídeos enviados como arquivos.
+O comando sincroniza o histórico de vídeos acessível à conta no Canal de Vídeos para Afiliados . Ele também reconhece vídeos enviados como arquivos.
 
 1. Na pasta do projeto, instale as dependências com `npm install`.
 2. Na mesma pasta, copie `env.example.json` para `env.json` e preencha `apiId` e `apiHash`, obtidos em [API development tools](https://my.telegram.org).
