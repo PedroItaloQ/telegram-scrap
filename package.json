@@ -1,0 +1,11 @@
+{
+  "name": "@bots/telegram-baixar-videos",
+  "private": true,
+  "scripts": {
+    "start": "node index.cjs"
+  },
+  "dependencies": {
+    "input": "1.0.1",
+    "telegram": "2.26.22"
+  }
+}
